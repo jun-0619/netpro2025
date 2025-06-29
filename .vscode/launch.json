@@ -1,0 +1,184 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OmikujiHttpClient",
+            "request": "launch",
+            "mainClass": "com.example.OmikujiHttpClient",
+            "projectName": "java-json"
+        },
+        {
+            "type": "java",
+            "name": "OmikujiHttpServer",
+            "request": "launch",
+            "mainClass": "com.example.OmikujiHttpServer",
+            "projectName": "java-json"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "java-json"
+        },
+        {
+            "type": "java",
+            "name": "GUIAnimationMain",
+            "request": "launch",
+            "mainClass": "guichat.GUIAnimationMain",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "GUIAniMultiTCPClient2",
+            "request": "launch",
+            "mainClass": "guichat.GUIAniMultiTCPClient2",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "FacesAWTMain",
+            "request": "launch",
+            "mainClass": "FacesAWTMain",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "SimpleAddressClient",
+            "request": "launch",
+            "mainClass": "q8.SimpleAddressClient",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "SimpleAddressServer",
+            "request": "launch",
+            "mainClass": "q8.SimpleAddressServer",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "RepeatChecker",
+            "request": "launch",
+            "mainClass": "q7.RepeatChecker",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "CalcTotalPrice",
+            "request": "launch",
+            "mainClass": "q5.CalcTotalPrice",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "Dice",
+            "request": "launch",
+            "mainClass": "q4.Dice",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "Dots",
+            "request": "launch",
+            "mainClass": "q3.Dots",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "KuKu",
+            "request": "launch",
+            "mainClass": "q2.KuKu",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "ThirteenOdd",
+            "request": "launch",
+            "mainClass": "q1.ThirteenOdd",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "CountAZTenRunnable",
+            "request": "launch",
+            "mainClass": "CountAZTenRunnable",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "OriginalUDPClient",
+            "request": "launch",
+            "mainClass": "OriginalUDPClient",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "OriginalUDPServer",
+            "request": "launch",
+            "mainClass": "OriginalUDPServer",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "TaskClientWhile",
+            "request": "launch",
+            "mainClass": "TaskClientWhile",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerWhile",
+            "request": "launch",
+            "mainClass": "TaskServerWhile",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "TaskClientOnce",
+            "request": "launch",
+            "mainClass": "TaskClientOnce",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerOnce",
+            "request": "launch",
+            "mainClass": "TaskServerOnce",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "DinnerFullCourse",
+            "request": "launch",
+            "mainClass": "DinnerFullCourse",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "CheckLocalAddress",
+            "request": "launch",
+            "mainClass": "src05.CheckLocalAddress",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "HomeWorkServer",
+            "request": "launch",
+            "mainClass": "HomeWorkServer",
+            "projectName": "netpro2025_e3f6cdc2"
+        },
+        {
+            "type": "java",
+            "name": "HomeWorkTCPClient",
+            "request": "launch",
+            "mainClass": "HomeWorkTCPClient",
+            "vmArgs": "-Dfile.encoding=UTF-8",
+            "projectName": "netpro2025_e3f6cdc2"
+        }
+    ]
+}

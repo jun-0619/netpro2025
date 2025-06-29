@@ -1,0 +1,15 @@
+{
+  "name": "market-app",
+  "version": "1.0.0",
+  "description": "店側アプリケーション",
+  "type": "module",
+  "main": "src/my-store.js",
+  "scripts": {
+    "start": "node src/my-store.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.2"
+  }
+}
